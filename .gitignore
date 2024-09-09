@@ -1,0 +1,16 @@
+# important files
+.env
+node_modules/
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# other files
+Thumbs.db
+build/
+coverage/
+*.swp
+*.swo
