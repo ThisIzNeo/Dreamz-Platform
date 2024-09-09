@@ -1,5 +1,8 @@
-# EduSphere-Platform
+# EduSphere-Platform 
+
 **EduSphere-Platform** is a FullStack Web Application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The platform is designed to provide a seamless and interactive experience for users to browse, purchase, and enroll in various online courses.
+
+![EduSphere Logo](./logo.png)
 
 ## Features
 
