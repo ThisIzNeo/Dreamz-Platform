@@ -6,7 +6,7 @@
 
 ## Features
 
-- **User Authentication**: Secure login and registration using JWT tokens.
+- **User Authentication**: Secure login and registration using JWT tokens. ✔️
 - **Course Browsing**: Users can browse through a catalog of courses, filter by categories, and search by keywords.
 - **Course Enrollment**: Once registered, users can enroll in courses and access their learning dashboard.
 - **Admin Dashboard**: Admin users can manage course content, add new courses, and handle user accounts.
