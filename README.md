@@ -26,3 +26,7 @@
 - **MongoDB**: NoSQL database for storing user data, course information, and progress.
 - **JWT (JSON Web Tokens)**: For user authentication and authorization.
 
+<hr>
+
+<img src="./V1.0 EduSphere.png" alt="Description" style="border-radius: 20px;">
+
