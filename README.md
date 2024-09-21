@@ -1,4 +1,4 @@
-# EduSphere-Platform 
+# EduSphere-Platform
 
 **EduSphere-Platform** is a FullStack Web Application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The platform is designed to provide a seamless and interactive experience for users to browse, purchase, and enroll in various online courses.
 
@@ -15,12 +15,16 @@
 - **Responsive Design**: The platform is fully responsive and mobile-friendly.
 
 ## Tech Stack
+
 [![EduSphere Demo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*3RrAoZWTBBl13gHhIMpQYg.gif)]
+
 ### Frontend:
+
 - **React.js**: For building a dynamic and responsive user interface.
 - **TailwindCss**: For Styling.
 
 ### Backend:
+
 - **Node.js**: The core runtime environment for the server.
 - **Express.js**: For creating RESTful APIs.
 - **MongoDB**: NoSQL database for storing user data, course information, and progress.
@@ -28,5 +32,4 @@
 
 <hr>
 
-<img src="./V1.0 EduSphere.png" alt="Description" style="border-radius: 20px;">
-
+<img src="./V1.5 EduSphere.png" alt="Description" style="border-radius: 20px;">
