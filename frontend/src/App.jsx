@@ -4,6 +4,7 @@ import FloatingShape from "./components/FloatingShape";
 import SignUpPage from "./Pages/SignUpPage";
 import LoginPage from "./Pages/LoginPage";
 import EduSphere from "./Pages/EduSphere";
+import EmailVerificationPage from "./Pages/EmailVerificationPage";
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         <Route path="/" element={<EduSphere />} />
         <Route path="/signup" element={<SignUpPage />} />
         <Route path="/login" element={<LoginPage />} />
+        <Route path="/verify-email" element={<EmailVerificationPage />} />
       </Routes>
     </div>
   );

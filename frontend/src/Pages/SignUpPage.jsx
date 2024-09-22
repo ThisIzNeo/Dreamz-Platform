@@ -9,7 +9,7 @@ import PasswordStrengthMeter from "../components/PasswordStrengthMeter";
 const SignUpPage = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-  const [Password, setPassword] = useState("");
+  const [password, setPassword] = useState("");
 
   const handleSignUp = (e) => {
     e.preventDefault();
@@ -43,12 +43,12 @@ const SignUpPage = () => {
           />
           <Input
             icon={Lock}
-            type="text"
+            type="password"
             placeholder="Password"
-            value={Password}
+            value={password}
             onChange={(e) => setPassword(e.target.value)}
           />
-          <PasswordStrengthMeter password={Password} />
+          <PasswordStrengthMeter password={password} />
           <motion.button
             className="mt-5 w-full py-3 px-4 bg-gradient-to-r from-sky-500 to bg-cyan-400 text-white font-bold rounded-lg shadow-lg hover:from-indigo-600 hover:to-indigo-800 focus:outline-none focus:ring-2 focus:ring-sky-600 focus:ring-offset-2 focus:ring-offset-gray-900 transition duration-200"
             whileHover={{ scale: 1.02 }}
