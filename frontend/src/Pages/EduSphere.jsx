@@ -14,7 +14,7 @@ const EduSphere = () => {
           <Link to={"/Signup"}>Sign up</Link>
         </p>
         <p className="mx-3 py-3 text-sky-500 hover:text-sky-300 transition-all duration-300">
-          <Link to={"/Signup"}>Login</Link>
+          <Link to={"/login"}>Login</Link>
         </p>
       </div>
     </div>
